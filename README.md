@@ -4,11 +4,11 @@ A simple and efficient Pomodoro Timer built to boost productivity by breaking wo
 
 **Features:**
 
-1.Customizable Work and Break Intervals: Set your preferred time durations for focused work sessions and breaks.
-2.Audio Alerts: Receive notifications at the end of each session or break with subtle sound alerts.
-3.Progress Tracking: Visualize your progress with a timer display showing time left in each session.
-4.Responsive Design: Works seamlessly on desktop and mobile browsers.
-5.Dark Mode: User-friendly interface with support for dark mode to reduce eye strain.
+1. Customizable Work and Break Intervals: Set your preferred time durations for focused work sessions and breaks.
+2. Audio Alerts: Receive notifications at the end of each session or break with subtle sound alerts.
+3. Progress Tracking: Visualize your progress with a timer display showing time left in each session.
+4. Responsive Design: Works seamlessly on desktop and mobile browsers.
+5. Dark Mode: User-friendly interface with support for dark mode to reduce eye strain.
 
 **Technology Stack:**
 
