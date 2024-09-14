@@ -1,5 +1,5 @@
 # Pomodoro-timer
-Pomodoro Timer ⏲️
+
 A simple and efficient Pomodoro Timer built to boost productivity by breaking work into manageable intervals, inspired by the Pomodoro Technique. This timer helps users stay focused by alternating between work sessions and short breaks, perfect for managing time effectively whether you're studying, coding, or working remotely.
 
 Features
