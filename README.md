@@ -12,16 +12,16 @@ A simple and efficient Pomodoro Timer built to boost productivity by breaking wo
 
 **Technology Stack:**
 
-1.Frontend: HTML, CSS, JavaScript
-2.Design: Modern, clean UI with responsive layouts
+1. Frontend: HTML, CSS, JavaScript
+2. Design: Modern, clean UI with responsive layouts
 Usage
-3.Set your desired focus and break durations.
-4.Start the timer and focus on your task until the session ends.
-5.Take a short break when prompted.
-6.Repeat the cycle to maintain focus and productivity.
+3. Set your desired focus and break durations.
+4. Start the timer and focus on your task until the session ends.
+5. Take a short break when prompted.
+6. Repeat the cycle to maintain focus and productivity.
 
 **Future Enhancements:**
 
-1.Long break intervals after multiple sessions.
-2.Task management to keep track of completed tasks.
-Integrating local storage to save preferences.
+1. Long break intervals after multiple sessions.
+2. Task management to keep track of completed tasks.
+3. Integrating local storage to save preferences.
