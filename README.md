@@ -20,10 +20,10 @@ Usage
 5. Take a short break when prompted.
 6. Repeat the cycle to maintain focus and productivity.
 
-URL :[https://codepen.io/Tanishq-Ranjan]
-
 **Future Enhancements:**
 
 1. Long break intervals after multiple sessions.
 2. Task management to keep track of completed tasks.
 3. Integrating local storage to save preferences.
+
+URL :[https://codepen.io/Tanishq-Ranjan]
